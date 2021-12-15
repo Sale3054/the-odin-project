@@ -1,0 +1,17 @@
+.p-class{
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.p-class-cooler{
+    font-size:24px;
+}
+#blue-text {
+    color:blue;
+    font-size: 36px;
+}
+
+#green-text{
+    background-color: lightgreen;
+    font-weight:bold;
+    font-size: 24px;
+}
